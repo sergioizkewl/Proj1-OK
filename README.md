@@ -7,5 +7,9 @@ Description:
 
 The OK project ensures that everyone either inherits an 'O' trait or a 'K' trait.
 The purpose of this is to ensure that everyone has balanced genetic inheritance
-The 'O' gene allows inheritors to have excellent, innate drum talent
-The 'K' gene allows inheritors to perform piano excellently
+
+---------------------
+Sect: Benefits of Each Gene
+
+An 'O' gene's innate drum talent allows for more muscular hand endurance and dexterity.
+Meanwhile, a 'K' gene's piano coordination allows more independent finger control and muscular endurance.
